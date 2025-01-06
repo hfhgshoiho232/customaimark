@@ -59,6 +59,11 @@
     "vaul": "^0.9.6",
     "zod": "^3.24.1",
     "whatsapp-web.js": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "@ai-sdk/openai": "latest",
+    "ai": "latest",
     "qrcode-terminal": "latest"
   },
   "devDependencies": {
